@@ -42,7 +42,3 @@ Contributions are welcome:
 - Keep notebooks concise and well-commented.
 - Prefer clear, minimal examples over heavy abstractions.
 - Add short READMEs inside subfolders if a project needs special instructions.
-
-## License
-
-Add a LICENSE file to specify terms of use for this repository.
